@@ -3,7 +3,8 @@ public static void main(String args[])
 {
 System.out.println("First program in GitHub");
 int x= 18;
-int n= Soham;
-System.out.println("My name is "+n "I am"+x);
+String name= Soham;
+System.out.print("My name is "+ name);
+System.out.print("I am "+ x);
 }
 }
